@@ -1,2 +1,3 @@
-# Spring_practice_board
-연습은 게시판으로부터..
+# Simple_SNS_Practice
+
+Spring boot 연습은 간단한 SNS 구현해보기로부터...
